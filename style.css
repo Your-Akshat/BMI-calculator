@@ -21,7 +21,8 @@ input{
 }
 
 .buttonContainer{
-    margin: 28px 120px;
+    text-align: center;
+    margin-top: 16px;
 }
 
 .button{
