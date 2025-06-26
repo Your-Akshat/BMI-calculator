@@ -21,7 +21,7 @@ calcButton.addEventListener( 'click', (e) => {
         BMI = BMI.toFixed(2);
         BMI = BMI.toLocaleString('en-IN')
 
-        tellUser.innerHTML = `BMI = ${BMI}`
+        tellUser.innerHTML = `<span class='h2header'>BMI</span> = ${BMI}`
     }
 })
 
